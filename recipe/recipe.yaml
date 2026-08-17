@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.33.1"
+  version: "0.35.0"
 
 package:
   name: scrapy-zyte-api
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scrapy-zyte-api/scrapy_zyte_api-${{ version }}.tar.gz
-  sha256: a9dc69274eefbc2ccba119ac7b8d128dd4f19c0433d4acd27d016df2ed8634b9
+  sha256: ea2560074e76ccbdaf6d3b93e5055898ae475070580f8c91f6572b51795eea57
 
 build:
   noarch: python
